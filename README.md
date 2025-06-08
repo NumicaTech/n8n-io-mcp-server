@@ -1,7 +1,7 @@
 # n8n MCP Server
 
 [![CI](https://github.com/NumicaTech/n8n-io-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/NumicaTech/n8n-io-mcp-server/actions/workflows/ci.yml)
-[![Deploy](https://github.com/NumicaTech/n8n-io-mcp-server/actions/workflows/deploy.yml/badge.svg)](https://github.com/NumicaTech/n8n-io-mcp-server/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/NumicaTech/n8n-io-mcp-server/actions/workflows/publish.yml/badge.svg)](https://github.com/NumicaTech/n8n-io-mcp-server/actions/workflows/publish.yml)
 [![npm version](https://badge.fury.io/js/@numica%2Fn8n-io-mcp-server.svg)](https://badge.fury.io/js/@numica%2Fn8n-io-mcp-server)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 
