@@ -1,0 +1,32 @@
+{
+  "name": "@numica/n8n-io-mcp-server",
+  "version": "0.1.0",
+  "description": "MCP server that provides tools for discovering and exploring public n8n workflow templates from the n8n community gallery at https://n8n.io/workflows/. This server enables AI assistants to search and retrieve workflow templates through a standardized interface.",
+  "type": "module",
+  "bin": {
+    "n8n-io-mcp-server": "./dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc && mcp-build",
+    "watch": "tsc --watch",
+    "start": "node dist/index.js",
+    "inspect": "npm run build && npx -y @modelcontextprotocol/inspector npm start"
+  },
+  "dependencies": {
+    "mcp-framework": "^0.2.13"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumicaTech/n8n-io-mcp-server"
+  }
+}
