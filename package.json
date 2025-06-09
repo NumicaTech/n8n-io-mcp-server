@@ -28,5 +28,20 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NumicaTech/n8n-io-mcp-server"
-  }
+  },
+  "keywords": [
+    "n8n",
+    "workflow",
+    "template",
+    "automate",
+    "automation",
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "ai-agent",
+    "cursor",
+    "roo",
+    "claude",
+    "anthropic"
+  ]
 }
