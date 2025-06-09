@@ -1,6 +1,6 @@
 {
   "name": "@numica/n8n-io-mcp-server",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "MCP server that provides tools for discovering and exploring public n8n workflow templates from the n8n community gallery at https://n8n.io/workflows/. This server enables AI assistants to search and retrieve workflow templates through a standardized interface.",
   "type": "module",
   "bin": {
